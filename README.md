@@ -2,21 +2,18 @@
 Website giới thiệu bản thân, sử dụng HTML, CSS và JavaScript.
 
 ## Các Chức năng đã dùng
-- Hình nền web: url("TV.jpg")
-- <tiltle>, <h1>, <h2>
+- Hình nền web
+- Các tiêu đề, text
  + ::first-letter để viết hoa chữ cái đầu mỗi đoạn
  + text-shadow
  + màu, kích thước, font chữ
 - List danh sách 
- + <ul>, <li>
-  ++ Mỗi <li> có dùng onclick với hàm showSection() để truyền vào id của nội dung cần hiển thị, ẩnn toàn bộ nội dung và chỉ hiển thị id được click vào
+  + Dùng onclick với hàm showSection() để truyền vào id của nội dung cần hiển thị, ẩnn toàn bộ nội dung và chỉ hiển thị id được click vào
 - Menu
  + Hàm showMenu() để ẩn toàn bộ nội dung và chỉ hiện thị nội dung menu được chọn
- + <span>
  + CSS (viền, bo tròn, màu sắc)
  + JavaScript (onclick)
 - Table 
- + <table>, <tr>, <th>, <td>
  + colspan (gộp cột), rowspan (gộp hàng)
  + Định dạng viền, định dạng cột, chữ, căn lề, kích thước, màu,..
 - Video 
